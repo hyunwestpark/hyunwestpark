@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 
-### ℹ️This repo mainly contains few explanation of algorithm exercises. 
+#### ℹ️This repo mainly contains few explanation of algorithm exercises. 
 
 
 <!--
