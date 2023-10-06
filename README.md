@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-#### ℹ️This repo mainly contains few explanation of algorithm exercises. 
-
-
 <!--
 **hyunwestpark/hyunwestpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
