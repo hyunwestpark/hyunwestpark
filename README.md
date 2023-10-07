@@ -1,4 +1,26 @@
-### Hi there 👋
+## Education🏫
+Seoul National University of Science and Technology
+
+Northumbria University (Dual Degree)
+
+Bachelor of Information Technology Management - BE
+
+## Projects💻
+Cryptocurrency Price Prediction using correlation between cryptocurrencies
+
+pintOS
+
+Blockchain Based Resale Market Platform Business Project
+
+## Awards🏆
+Seoultech Industrial Engineering Algorithm Contest Grand Prize🥇
+
+## Activities🫂
+Core member, Google Developer Students Club
+
+Nowon-gu Youth Fellowship
+
+withUS Project Contest Club
 
 
 <!--
