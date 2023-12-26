@@ -28,6 +28,8 @@ Northumbria University (Dual Degree)
 Bachelor of Information Technology Management - BE
 
 ## Projects💻
+Memoriary: Diary application for elderly people to prevent Alzheimer
+
 Cryptocurrency Price Prediction using correlation between cryptocurrencies
 
 pintOS
