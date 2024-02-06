@@ -31,13 +31,19 @@ Bachelor of Information Technology Management - BE
 
 ### Memoriary(2023 SEP ~ 2023 DEC) <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 - Diary application for elderly people to prevent Alzheimer
+- The project is aimed to provide various activities such as Diary, to-do list and simple exercises leveraging gyro sensor of the mobile device
+- This project is created by Android XML and Kotlin
 
 ### Optimal Location Selection of Elder Facility in Seoul(2023 SEP ~ 2023 DEC) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+- This project provides optimal locations of the elder facility by leveraging MCLP algorithm
+- The important factors for the selection were derived via KNN and random forest technique
 
 ### Cryptocurrency Price Prediction(2023 MAR ~ 2023 JUN) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-- using correlation between cryptocurrencies
+- Predicted cryptocurrency price using correlation between cryptocurrencies
 
 ### pintOS(2023 MAR ~ 2023 JUN) <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+- Implemented various functionalities of Operating Systems
+- Such as thread, safe call and I/O
 
 ## Awards🏆
 Seoultech Industrial Engineering Algorithm Contest Grand Prize🥇
