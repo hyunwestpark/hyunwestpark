@@ -26,15 +26,16 @@ Northumbria University (Dual Degree)
 Bachelor of Information Technology Management - BE
 
 ## Projects💻
-Purify: CCTV simulative installation program that helps city architectures to provide a security to the city
+### Purify(2024 JAN~)
+- CCTV simulative installation program that helps city architectures to provide a security to the city
 
-Memoriary: Diary application for elderly people to prevent Alzheimer
+<b>Memoriary</b>(2023 SEP ~ 2023 DEC): Diary application for elderly people to prevent Alzheimer
 
-Cryptocurrency Price Prediction using correlation between cryptocurrencies
+<b>Optimal Location Selection of Elder Facility in Seoul</b>
 
-pintOS
+<b>Cryptocurrency Price Prediction</b>(2023 MAR ~ 2023 JUN): using correlation between cryptocurrencies
 
-Blockchain Based Resale Market Platform Business Project
+<b>pintOS</b>
 
 ## Awards🏆
 Seoultech Industrial Engineering Algorithm Contest Grand Prize🥇
