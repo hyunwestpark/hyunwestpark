@@ -2,13 +2,11 @@
 <a href="www.linkedin.com/in/hyunseo-park-0619841a7" target="_blank"><img src="https://img.shields.io/badge/Hyunseo Park-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="gmail.com" target="_blank"><img src="https://img.shields.io/badge/rainday0828@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-👋Hi there! I'm a student majored in <b>information technology management</b>.
+👋Hi there, I'm a student majored in <b>information technology management</b>.
 
 I am so interested in project management and web development🚀
 
 I enjoy programming front-end using React but I am also confortable using node.js, python and java.
-
-I don't actually have any hobbies but I really like watching football and I support Manchester city⚽️
 
 ## 🦾Skills
 
