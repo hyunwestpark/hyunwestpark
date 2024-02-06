@@ -26,16 +26,18 @@ Northumbria University (Dual Degree)
 Bachelor of Information Technology Management - BE
 
 ## Projects💻
-### Purify(2024 JAN~)
+### Purify(2024 JAN~) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 - CCTV simulative installation program that helps city architectures to provide a security to the city
 
-<b>Memoriary</b>(2023 SEP ~ 2023 DEC): Diary application for elderly people to prevent Alzheimer
+### Memoriary(2023 SEP ~ 2023 DEC) <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+- Diary application for elderly people to prevent Alzheimer
 
-<b>Optimal Location Selection of Elder Facility in Seoul</b>
+### Optimal Location Selection of Elder Facility in Seoul(2023 SEP ~ 2023 DEC) <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<b>Cryptocurrency Price Prediction</b>(2023 MAR ~ 2023 JUN): using correlation between cryptocurrencies
+### Cryptocurrency Price Prediction(2023 MAR ~ 2023 JUN) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+- using correlation between cryptocurrencies
 
-<b>pintOS</b>
+### pintOS(2023 MAR ~ 2023 JUN)
 
 ## Awards🏆
 Seoultech Industrial Engineering Algorithm Contest Grand Prize🥇
