@@ -6,7 +6,7 @@ My name is <b>Hyunseo Sean Park</b> and I'm a student majored in <b>Information 
 
 I am so interested in project management and web development.
 
-I enjoy programming front-end using React but I am also comfortable with node.js, python and java.
+I enjoy programming front-end using React but I am also comfortable with node.js, Python and Java.
 
 ## Skills
 
