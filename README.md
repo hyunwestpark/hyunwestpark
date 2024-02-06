@@ -2,13 +2,13 @@
 <a href="www.linkedin.com/in/hyunseo-park-0619841a7" target="_blank"><img src="https://img.shields.io/badge/Hyunseo Park-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="gmail.com" target="_blank"><img src="https://img.shields.io/badge/rainday0828@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-👋Hi there, I'm a student majored in <b>information technology management</b>.
+My name is Hyunseo Sean Park and I'm a student majored in <b>information technology management</b>.
 
-I am so interested in project management and web development🚀
+I am so interested in project management and web development.
 
 I enjoy programming front-end using React but I am also confortable using node.js, python and java.
 
-## 🦾Skills
+## Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -18,14 +18,14 @@ I enjoy programming front-end using React but I am also confortable using node.j
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
 
-## Education🏫
+## Education
 Seoul National University of Science and Technology
 
 Northumbria University (Dual Degree)
 
 Bachelor of Information Technology Management - BE
 
-## Projects💻
+## Projects
 ### Purify(2024 JAN~) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 - CCTV simulative installation program that helps city architectures to provide a security to the city
 
@@ -45,10 +45,10 @@ Bachelor of Information Technology Management - BE
 - Implemented various functionalities of Operating Systems
 - Such as thread, safe call and I/O
 
-## Awards🏆
-Seoultech Industrial Engineering Algorithm Contest Grand Prize🥇
+## Awards
+Seoultech Industrial Engineering Algorithm Contest Grand Prize
 
-## Activities🫂
+## Activities
 Core member, Google Developer Students Club
 
 Nowon-gu Youth Fellowship
