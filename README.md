@@ -26,7 +26,7 @@ Northumbria University (Dual Degree)
 Bachelor of Information Technology Management - BE
 
 ## Projects
-### Purify(2024 JAN~) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+### Purify(2024 JAN ~ 2024 MAR) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 - CCTV simulative installation program that helps city architectures to provide a security to the city
 
 ### Memoriary(2023 SEP ~ 2023 DEC) <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
